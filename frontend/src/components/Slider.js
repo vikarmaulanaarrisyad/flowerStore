@@ -3,7 +3,6 @@ import ArrowLeftOutlinedIcon from "@mui/icons-material/ArrowLeftOutlined";
 import ArrowRightOutlinedIcon from "@mui/icons-material/ArrowRightOutlined";
 import { ApiSlides } from "../API/SliderApi";
 import "../style/Slider.css";
-import { keyframes } from "@emotion/react";
 
 const Slider = () => {
   // useState hooks
